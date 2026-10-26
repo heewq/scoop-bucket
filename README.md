@@ -16,5 +16,6 @@ scoop install heewq/kero
 | App | Description |
 | --- | --- |
 | [kero](bucket/kero.json) | [Kero](https://kero.sh/), a terminal for coding agents |
+| [mygo-cloudmusic](bucket/mygo-cloudmusic.json) | [MyGo 云音乐](https://github.com/egoist/mygo-cloudmusic), a native NetEase Cloud Music client |
 
 Manifests are kept up to date by [Excavator](.github/workflows/excavator.yml), which runs every 4 hours.
